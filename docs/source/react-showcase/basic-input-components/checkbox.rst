@@ -1,7 +1,7 @@
 Checkbox
 ========
 
-The checkbox component is a tri-state checkbox that is easily converted into a standard checkbox. Some examples are provided below.
+In **v2 of the React Showcase**, The checkbox component is a tri-state checkbox that is easily converted into a standard checkbox. Some examples are provided below.
 
 .. warning::
     **Lorem ipsum dolor sit amet, consectetur adipiscing elit.**

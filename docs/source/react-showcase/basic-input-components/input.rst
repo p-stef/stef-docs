@@ -1,7 +1,7 @@
 Input
 =====
 
-Rather than using a standard input via HTML, you should always use a **React Showcase Input**. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet, erat eu auctor facilisis, felis mauris gravida felis, malesuada laoreet justo nulla et nunc.
+In **v2 of the React Showcase**, Rather than using a standard input via HTML, you should always use a **React Showcase Input**. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet, erat eu auctor facilisis, felis mauris gravida felis, malesuada laoreet justo nulla et nunc.
 
 The Default Input
 -----------------
