@@ -17,6 +17,7 @@ Comprehensive documentation to help you get started, with tons of ready-to-use c
    :hidden:
    :caption: React Showcase
 
+   react-showcase/_index
    react-showcase/basic-input-components/_index
    react-showcase/security/_index
 
