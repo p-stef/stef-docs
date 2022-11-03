@@ -1,4 +1,4 @@
-.. _core-library-index:
+.. _cl-index:
 
 Core Library
 ============

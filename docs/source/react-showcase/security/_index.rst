@@ -1,3 +1,5 @@
+.. _rs-security-index:
+
 Security
 ========
 

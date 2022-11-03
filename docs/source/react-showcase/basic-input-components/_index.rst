@@ -1,3 +1,5 @@
+.. _rs-basic-input-components-index:
+
 Basic input components
 ======================
 
