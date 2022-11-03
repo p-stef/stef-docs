@@ -28,3 +28,4 @@ Core Library: :ref:`cl-index`
    :caption: Core Library
 
    core-library/_quickstart
+   core-library/core-base/_index
