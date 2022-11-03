@@ -8,9 +8,9 @@ Welcome to our knowledge base!
 
 Comprehensive documentation to help you get started, with tons of ready-to-use code snippets and examples!
 
-:ref:`rs-index`
+React Showcase: :ref:`rs-index`
 
-:ref:`cl-index`
+Core Library: :ref:`cl-index`
 
 .. toctree::
    :maxdepth: 1
