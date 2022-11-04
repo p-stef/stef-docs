@@ -27,5 +27,5 @@ Core Library: :ref:`cl-index`
    :hidden:
    :caption: Core Library
 
-   core-library/_quickstart
+ 
    core-library/core-base/_index
